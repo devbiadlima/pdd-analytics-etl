@@ -29,4 +29,4 @@ for file in files:
     if not os.path.exists(file):
         open(file, "w").close()
 
-print("✅ Estrutura do projeto criada com sucesso!")
+print("Estrutura do projeto criada com sucesso!")
