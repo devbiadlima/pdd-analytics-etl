@@ -48,9 +48,7 @@ Estrutura de dados baseada em camadas:
 
 ## 👤 Autoria
 
-Bianca Pereira de Lima 
-
-Leonardo do Nascimento Taguchi
-
+-  Pereira de Lima 
+- Leonardo do Nascimento Taguchi
 
 Projeto acadêmico desenvolvido para fins educacionais.
